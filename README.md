@@ -6,6 +6,6 @@
 2. The STM32 MCU analyze the frequecy and intensity of the sound
 3. Based on that data, the MCU decides which colors and which pattern to play
 4. The data for colors and patterns are stored in arrays and converted to PWM signals
-5. The LEDs receive the PWM signal and display the magnificent light show!
+5. The WS2812B LEDs receive the PWM signal and display the magnificent light show!
 
 For more videos: https://drive.google.com/drive/folders/19R12WrHFEDq-pBJKhr277760kc8Yym1f?usp=sharing
