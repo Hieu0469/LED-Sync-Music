@@ -1,4 +1,5 @@
 # LED-Sync-Music
+<img width="1080" height="703" alt="image" src="https://github.com/user-attachments/assets/da24deb8-7e35-4ad3-8df3-bd1e1a3596c1" />
 
 ## How it works
 1. The microphone collects samples from music playing
